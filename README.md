@@ -19,6 +19,8 @@ When I’m not building scalable systems or debugging a stubborn endpoint, I’m
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 **Frameworks & Libraries**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -29,6 +31,8 @@ When I’m not building scalable systems or debugging a stubborn endpoint, I’m
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,9 +46,9 @@ When I’m not building scalable systems or debugging a stubborn endpoint, I’m
 
 ## 🚧 Projects I’m Working On
 
-**🔐 Django Login System** – A modular authentication system built with Django, offering secure user registration, login/logout, and password handling with room for role-based access extensions.
-**🌐 Liquor Store E-Commerce** – A dynamic Django-powered storefront featuring product listings, search filters, cart functionality, and QR-based checkout integration tailored for streamlined user experience and mobile responsiveness.
-**🎨 Cisco Packet Tracer** – Network simulation projects built in Cisco Packet Tracer, showcasing layered topology design, routing logic, and practical switching scenarios for foundational network architecture.
+-**🔐 Django Login System** – A modular authentication system built with Django, offering secure user registration, login/logout, and password handling with room for role-based access extensions.
+-**🌐 Liquor Store E-Commerce** – A dynamic Django-powered storefront featuring product listings, search filters, cart functionality, and QR-based checkout integration tailored for streamlined user experience and mobile responsiveness.
+-**🎨 Cisco Packet Tracer** – Network simulation projects built in Cisco Packet Tracer, showcasing layered topology design, routing logic, and practical switching scenarios for foundational network architecture.
 
 ---
 
