@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Zablon Ombiri
+# 👋 Hey, I’m Zambagarrah
 
 🔧 Backend Specialist | 🖼 Frontend Enthusiast | ⚙️ Problem-solver | 🏎 Motorsport fan
 
