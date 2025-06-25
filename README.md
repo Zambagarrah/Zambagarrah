@@ -15,7 +15,8 @@ When I’m not building scalable systems or debugging a stubborn endpoint, I’m
 ## 🛠 Current Tech Stack
 
 - **Languages**: Python, JavaScript
-- **Frameworks**: Django, Bootstrap
+- **Frameworks**: ![Django](https://camo.githubusercontent.com/13b219a55add1b06da0738bf43724acbd63e642faf01035506f20554f068fe0e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2d2532333039324532302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465)
+, Bootstrap
 - **Databases**: PostgreSQL, SQLite
 - **Tools**: Git, Docker, VS Code, Adobe Illustrator
 - **Currently Exploring**: JWT vs Django Sessions, Payment integrations via QR, PostgreSQL optimization
