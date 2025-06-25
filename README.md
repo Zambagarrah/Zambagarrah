@@ -46,9 +46,9 @@ When I’m not building scalable systems or debugging a stubborn endpoint, I’m
 
 ## 🚧 Projects I’m Working On
 
--**🔐 Django Login System** – A modular authentication system built with Django, offering secure user registration, login/logout, and password handling with room for role-based access extensions.
--**🌐 Liquor Store E-Commerce** – A dynamic Django-powered storefront featuring product listings, search filters, cart functionality, and QR-based checkout integration tailored for streamlined user experience and mobile responsiveness.
--**🎨 Cisco Packet Tracer** – Network simulation projects built in Cisco Packet Tracer, showcasing layered topology design, routing logic, and practical switching scenarios for foundational network architecture.
+- **🔐 Django Login System** – A modular authentication system built with Django, offering secure user registration, login/logout, and password handling with room for role-based access extensions.
+- **🌐 Liquor Store E-Commerce** – A dynamic Django-powered storefront featuring product listings, search filters, cart functionality, and QR-based checkout integration tailored for streamlined user experience and mobile responsiveness.
+- **🎨 Cisco Packet Tracer** – Network simulation projects built in Cisco Packet Tracer, showcasing layered topology design, routing logic, and practical switching scenarios for foundational network architecture.
 
 ---
 
