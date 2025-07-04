@@ -43,7 +43,6 @@ When I’m not building scalable systems or debugging a stubborn endpoint, I’m
 
 ---
 
-
 ## 🚧 Projects I’m Working On
 
 - **🔐 Django Login System** – A modular authentication system built with Django, offering secure user registration, login/logout, and password handling with room for role-based access extensions.
