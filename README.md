@@ -57,10 +57,7 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 - Django-powered backend with PostgreSQL DB
 - Designed to empower Mombasa’s growing tech scene 🌴
 
----
 
-### GitHub Stats
-![Zablon's GitHub stats](https://github-readme-stats.vercel.app/api?username=zAMBAGARRAH&show_icons=true&theme=radical)
 
 ---
 
