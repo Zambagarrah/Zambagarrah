@@ -56,8 +56,8 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 ---
 
 ### 😄 Fun Bits
-> 🐛 Currently debugging: How my frontend became emotionally unavailable  
-> 😂 Joke of the day: Why do Python devs love nature? Because they prefer snakes over bugs.
+<!--> Currently debugging: How my frontend became emotionally unavailable  
+> Joke of the day: Why do Python devs love nature? Because they prefer snakes over bugs.
 
 ---
 
