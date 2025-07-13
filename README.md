@@ -50,16 +50,15 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Zablon's GitHub stats](https://github-readme-stats.vercel.app/api?username=zAMBAGARRAH&show_icons=true&theme=radical)
 
 ---
 
 ### 😄 Fun Bits
-<!--> Currently debugging: How my frontend became emotionally unavailable  -->
 > Joke of the day: Why do Python devs love nature? Because they prefer snakes over bugs.
 
 ---
 
-### 🌐 Find Me Around the Web
+### Find Me Around the Web
 - 💼 [Portfolio](https://zablon-site.vercel.app/)
