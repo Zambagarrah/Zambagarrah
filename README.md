@@ -3,6 +3,13 @@
 Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver | Motorsport fan
 
 ---
+## Short Intro
+
+🎯 Full-stack developer blending backend precision with frontend flair  
+💡 Building platforms that are secure, scalable, and sometimes... surprisingly funny  
+🌍 Based in Mombasa, Kenya; coding under palm trees (when Wi-Fi cooperates)
+
+---
 
 ### 🛠 Current Tech Stack
 
@@ -32,6 +39,8 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&logoColor=white)
+![Mpesa API](https://img.shields.io/badge/-Mpesa-00C851?logo=mpesa&logoColor=white)
 
 ### Featured Projects
 #### [JokeHub](https://github.com/Zambagarrah/JokeHub)
