@@ -4,15 +4,7 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 
 ---
 
-## 🌍 About Me
-
-I’m a passionate developer who thrives at the intersection of clean architecture, intuitive design, and practical thinking. My toolbox includes **Python 3.12**, **Django**, **PostgreSQL**, and **Docker**, and I’m fluent in Git workflows using SSH. I’m currently refining my frontend skills and embracing responsive design patterns to bring structure and storytelling to interfaces.
-
-When I’m not building scalable systems or debugging a stubborn endpoint, I’m probably deep in Motorsport Endurance Races like 24hr of Nürburgring or sketching out user flows for a design challenge.
-
----
-
-## 🛠 Current Tech Stack
+### 🛠 Current Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,33 +33,33 @@ When I’m not building scalable systems or debugging a stubborn endpoint, I’m
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+### Featured Projects
+#### [JokeHub](https://github.com/Zambagarrah/JokeHub)
+- A humor-based web app built with React + Django
+- Responsive UI with gradients and hover effects 💅
+- Browse jokes by category — laughter guaranteed
+- Robust user authentication and API integration
 
-## 🚧 Projects I’m Working On
+#### [Terminal-GPT](https://github.com/Zambagarrah/Terminal-GPT.git)
 
-- **🔐 Django Login System** – A modular authentication system built with Django, offering secure user registration, login/logout, and password handling with room for role-based access extensions.
-- **🌐 Liquor Store E-Commerce** – A dynamic Django-powered storefront featuring product listings, search filters, cart functionality, and QR-based checkout integration tailored for streamlined user experience and mobile responsiveness.
-- **🎨 Cisco Packet Tracer** – Network simulation projects built in Cisco Packet Tracer, showcasing layered topology design, routing logic, and practical switching scenarios for foundational network architecture.
-
----
-
-## 💡 I’m Learning About
-
-- Structuring projects for long-term team collaboration
-- Backend Django for Production.
-- Best practices for code reviews and GitHub pull requests
-- Visual hierarchy and user-centered digital design
-- Endurance racing strategies and motorsport analytics
-  
----
-
-## 🤝 Let’s Connect
-
-- 💬 Open to collaboration on meaningful tools and purpose-driven designs
-- 🧪 Always testing, learning, and improving
-- 💻 GitHub is my digital playground—check out my pinned repos!
+#### [SURF WORKS MTAANI](https://github.com/Zambagarrah/SURF-WORKS-MTAANI)
+- Connects tech freelancers with job opportunities
+- Secure login, job postings, and Mpesa payment workflows
+- Django-powered backend with PostgreSQL DB
+- Designed to empower Mombasa’s growing tech scene 🌴
 
 ---
 
-> “Code should not just work it should work with intention.”
+### 📊 GitHub Stats
+![Zablon's GitHub stats](https://github-readme-stats.vercel.app/api?username=zAMBAGARRAH&show_icons=true&theme=radical)
 
+---
+
+### 😄 Fun Bits
+> 🐛 Currently debugging: How my frontend became emotionally unavailable  
+> 😂 Joke of the day: Why do Python devs love nature? Because they prefer snakes over bugs.
+
+---
+
+### 🌐 Find Me Around the Web
+- 💼 [Portfolio](https://zablon-site.vercel.app/)
