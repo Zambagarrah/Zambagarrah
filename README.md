@@ -5,9 +5,9 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 ---
 ## Short Intro
 
-🎯 Full-stack developer blending backend precision with frontend flair  
-💡 Building platforms that are secure, scalable, and sometimes... surprisingly funny  
-🌍 Based in Mombasa, Kenya; coding under palm trees (when Wi-Fi cooperates)
+> Full-stack developer blending backend precision with frontend flair  
+> Building platforms that are secure, scalable, and sometimes... surprisingly funny  
+> Based in Mombasa, Kenya; coding under palm trees (when Wi-Fi cooperates)
 
 ---
 
@@ -45,7 +45,7 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 ### Featured Projects
 #### [JokeHub](https://github.com/Zambagarrah/JokeHub)
 - A humor-based web app built with React + Django
-- Responsive UI with gradients and hover effects 💅
+- Responsive UI with gradients and hover effects 
 - Browse jokes by category — laughter guaranteed
 - Robust user authentication and API integration
 
@@ -55,7 +55,7 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 - Connects tech freelancers with job opportunities
 - Secure login, job postings, and Mpesa payment workflows
 - Django-powered backend with PostgreSQL DB
-- Designed to empower Mombasa’s growing tech scene 🌴
+- Designed to empower Mombasa’s growing tech scene 
 
 
 
