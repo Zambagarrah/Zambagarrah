@@ -51,7 +51,7 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 
 #### [Terminal-GPT](https://github.com/Zambagarrah/Terminal-GPT.git)
 
-#### [SURF WORKS MTAANI](https://github.com/Zambagarrah/SURF-WORKS-MTAANI)
+#### [Surfs-Works-Mtaani](https://github.com/Zambagarrah/SURF-WORKS-MTAANI)
 - Connects tech freelancers with job opportunities
 - Secure login, job postings, and Mpesa payment workflows
 - Django-powered backend with PostgreSQL DB
