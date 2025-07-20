@@ -43,7 +43,7 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 ![Mpesa API](https://img.shields.io/badge/-Mpesa-00C851?logo=mpesa&logoColor=white)
 
 ### Featured Projects
-#### [JokeHub](https://github.com/Zambagarrah/JokeHub)
+#### [Joke-Hub](https://github.com/Zambagarrah/JokeHub)
 - A humor-based web app built with React + Django
 - Responsive UI with gradients and hover effects 
 - Browse jokes by category — laughter guaranteed
