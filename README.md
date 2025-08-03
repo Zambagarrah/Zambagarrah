@@ -41,16 +41,16 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 ![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&logoColor=white)
 ![Mpesa API](https://img.shields.io/badge/-Mpesa-00C851?logo=mpesa&logoColor=white)
 
+---
+
 ### Featured Projects
-#### [Joke-Hub](https://github.com/Zambagarrah/JokeHub)
+#### [Joke-Hub](https://github.com/Zambagarrah/Joke-Hub.git)
 - A humor-based web app built with React + Django.
 - Responsive UI with gradients and hover effects.
 - Browse jokes by category — laughter guaranteed.
 - Robust user authentication and API integration.
 
-#### [Terminal-GPT](https://github.com/Zambagarrah/Terminal-GPT.git)
-
-#### [Surfs-Works-Mtaani](https://github.com/Zambagarrah/SURF-WORKS-MTAANI)
+#### [Surfs-Works-Mtaani](https://github.com/Zambagarrah/Surf-Works_mtaani.git)
 - Connects tech freelancers with job opportunities.
 - Secure login, job postings, and Mpesa payment workflows.
 - Django-powered backend with PostgreSQL DB.
@@ -62,6 +62,9 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 - Responsive design with gradient UI and intuitive layout.
 - Features include dark mode, localStorage persistence, and data export.
 - Modular, educator-friendly codebase—ideal for demos and scaling.
+
+#### [Terminal-GPT](https://github.com/Zambagarrah/Terminal-GPT.git)
+
 
 ---
 
