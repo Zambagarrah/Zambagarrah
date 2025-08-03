@@ -20,7 +20,6 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-
 **Frameworks & Libraries**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -44,20 +43,25 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 
 ### Featured Projects
 #### [Joke-Hub](https://github.com/Zambagarrah/JokeHub)
-- A humor-based web app built with React + Django
-- Responsive UI with gradients and hover effects 
-- Browse jokes by category — laughter guaranteed
-- Robust user authentication and API integration
+- A humor-based web app built with React + Django.
+- Responsive UI with gradients and hover effects.
+- Browse jokes by category — laughter guaranteed.
+- Robust user authentication and API integration.
 
 #### [Terminal-GPT](https://github.com/Zambagarrah/Terminal-GPT.git)
 
 #### [Surfs-Works-Mtaani](https://github.com/Zambagarrah/SURF-WORKS-MTAANI)
-- Connects tech freelancers with job opportunities
-- Secure login, job postings, and Mpesa payment workflows
-- Django-powered backend with PostgreSQL DB
-- Designed to empower Mombasa’s growing tech scene 
+- Connects tech freelancers with job opportunities.
+- Secure login, job postings, and Mpesa payment workflows.
+- Django-powered backend with PostgreSQL DB.
+- Designed to empower Mombasa’s growing tech scene.
 
-
+#### [Expense-Tracker](https://github.com/Zambagarrah/React-Expense-Tracker.git)
+- A sleek finance tool built with React + Vite + Context API.
+- Track expenses by category with instant updates.
+- Responsive design with gradient UI and intuitive layout.
+- Features include dark mode, localStorage persistence, and data export.
+- Modular, educator-friendly codebase—ideal for demos and scaling.
 
 ---
 
