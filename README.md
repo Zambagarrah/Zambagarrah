@@ -47,7 +47,7 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 #### [Joke-Hub](https://github.com/Zambagarrah/Joke-Hub.git)
 - A humor-based web app built with React + Django.
 - Responsive UI with gradients and hover effects.
-- Browse jokes by category — laughter guaranteed.
+- Browse jokes by category; laughter guaranteed.
 - Robust user authentication and API integration.
 
 #### [Surfs-Works-Mtaani](https://github.com/Zambagarrah/Surf-Works_mtaani.git)
