@@ -65,13 +65,4 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 
 #### [Terminal-GPT](https://github.com/Zambagarrah/Terminal-GPT.git)
 
-
 ---
-
-### 😄 Fun Bits
-> Joke of the day: Why do Python devs love nature? Because they prefer snakes over bugs.
-
----
-
-### Find Me Around the Web
-- 💼 [Portfolio](https://zablon-site.vercel.app/)
