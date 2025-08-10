@@ -63,6 +63,4 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 - Features include dark mode, localStorage persistence, and data export.
 - Modular, educator-friendly codebase—ideal for demos and scaling.
 
-#### [Terminal-GPT](https://github.com/Zambagarrah/Terminal-GPT.git)
-
 ---
