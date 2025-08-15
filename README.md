@@ -11,7 +11,7 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 
 ---
 
-### 🛠 Current Tech Stack
+### Current Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -38,8 +38,6 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver |
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&logoColor=white)
-![Mpesa API](https://img.shields.io/badge/-Mpesa-00C851?logo=mpesa&logoColor=white)
 
 ---
 
