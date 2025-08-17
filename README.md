@@ -1,6 +1,6 @@
 # Hey, I’m Zambagarrah
 
-Backend Specialist | Frontend Enthusiast | Networking Student | Problem-solver | Motorsport fan
+Backend Specialist | Frontend Enthusiast | Networking Student | Motorsport fan
 
 ---
 ## Short Intro
