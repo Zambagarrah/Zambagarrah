@@ -6,7 +6,7 @@ Backend Specialist | Frontend Enthusiast | Networking Student | Motorsport fan
 ## Short Intro
 
 - Full-stack developer blending backend precision with frontend flair.
-- Building platforms that are secure, scalable, and sometimes... surprisingly funny.
+- Building platforms that are secure, scalable and sometimes... surprisingly funny.
 - Based in Mombasa, Kenya; coding under palm trees (when Wi-Fi cooperates).
 
 ---
