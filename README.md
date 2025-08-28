@@ -54,4 +54,4 @@
 - Track expenses by category with instant updates.
 - Responsive design with gradient UI and intuitive layout.
 - Features include dark mode, localStorage persistence, and data export.
-- Modular, educator-friendly codebase—ideal for demos and scaling.
+- Modular, educator-friendly codebase ideal for demos and scaling.
