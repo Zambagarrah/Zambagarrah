@@ -1,7 +1,5 @@
 # Hey, I’m Zambagarrah 
 
-## Short Intro
-
 - Based in Mombasa; coding under palm trees (when Wi-Fi cooperates).
 
 ---
