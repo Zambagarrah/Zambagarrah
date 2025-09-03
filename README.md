@@ -1,6 +1,6 @@
 # Hey, I’m Zambagarrah 
 
-- Based in Mombasa; coding under palm trees (when Wi-Fi cooperates).
+> Based in Mombasa; coding under palm trees (when Wi-Fi cooperates).
 
 ---
 
