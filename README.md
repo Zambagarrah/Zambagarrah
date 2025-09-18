@@ -31,25 +31,3 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### Featured Projects
-#### [Joke-Hub](https://github.com/Zambagarrah/Joke-Hub.git)
-- A humor-based web app built with React + Django.
-- Responsive UI with gradients and hover effects.
-- Browse jokes by category; laughter guaranteed.
-- Robust user authentication and API integration.
-
-#### [Surfs-Works-Mtaani](https://github.com/Zambagarrah/Surf-Works_mtaani.git)
-- Connects tech freelancers with job opportunities.
-- Secure login, job postings, and Mpesa payment workflows.
-- Django-powered backend with PostgreSQL DB.
-- Designed to empower Mombasa’s growing tech scene.
-
-#### [Expense-Tracker](https://github.com/Zambagarrah/React-Expense-Tracker.git)
-- A sleek finance tool built with React + Vite + Context API.
-- Track expenses by category with instant updates.
-- Responsive design with gradient UI and intuitive layout.
-- Features include dark mode, localStorage persistence, and data export.
-- Modular, educator-friendly codebase ideal for demos and scaling.
