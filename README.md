@@ -1,4 +1,4 @@
-# Hey, I’m Zambagarrah 
+# I’m Zambagarrah.
 
 > Based in Mombasa; coding under palm trees (when Wi-Fi cooperates).
 
