@@ -31,3 +31,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Git Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zambagarrah&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zambagarrah&theme=dark&fire=🔥)
+
