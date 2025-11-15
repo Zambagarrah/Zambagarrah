@@ -34,7 +34,6 @@
 
 ### Git Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zambagarrah&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zambagarrah&theme=dark&fire=..)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zambagarrah&layout=compact&theme=radical)
 
 
