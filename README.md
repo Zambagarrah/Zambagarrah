@@ -32,9 +32,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Git Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zambagarrah&show_icons=true&theme=radical&hide_border=true)
+---
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zambagarrah&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zambagarrah&layout=compact&theme=radical)
 
-
+<!-- ### Git Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zambagarrah&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zambagarrah&layout=compact&theme=radical) -->
+  
