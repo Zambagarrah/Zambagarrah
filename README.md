@@ -1,42 +1,42 @@
-# I’m **Zambagarrah**.
+# I’m **Zambagarrah**. Great name, I know
 
 > Based in Mombasa; coding under palm trees (when Wi-Fi cooperates).
 
 ---
 
-### Current Tech Stack
+<!-- ### Current Tech Stack
 
-**Languages**  
+<!-- **Languages**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Frameworks & Libraries**  
+<!-- **Frameworks & Libraries**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Databases**  
+<!-- **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 
-**Tools & Platforms**  
+<!-- **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-### Git Stats
+<!-- ---
+<!-- ### Git Stats
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zambagarrah&theme=radical&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zambagarrah&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zambagarrah&layout=compact&theme=radical)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zambagarrah&theme=radical&hide_border=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zambagarrah&show_icons=true&theme=radical&hide_border=true)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zambagarrah&layout=compact&theme=radical) -->
   
