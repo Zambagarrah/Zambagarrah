@@ -1,7 +1,7 @@
 # I’m **Zambagarrah**. Great name, I know
 
-> Based in Mombasa; coding under palm trees (when Wi-Fi cooperates).
-
+<!-- > Based on Mombasa; coding under palm trees (when Wi-Fi cooperates).-->
+> Based on Earth; coding under the cloud (when Wi-Fi cooperates).
 ---
 
 <!-- ### Current Tech Stack
