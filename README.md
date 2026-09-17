@@ -4,7 +4,7 @@
 > Based on Earth; coding under the cloud (when Wi-Fi cooperates).
 ---
 
-<!-- ### Current Tech Stack
+### Current Tech Stack
 
 <!-- **Languages**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -38,5 +38,5 @@
 
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zambagarrah&theme=radical&hide_border=true)
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zambagarrah&show_icons=true&theme=radical&hide_border=true)
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zambagarrah&layout=compact&theme=radical) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zambagarrah&layout=compact&theme=radical) 
   
